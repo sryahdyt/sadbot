@@ -10,7 +10,7 @@ const urlencode = require("urlencode");
 const axios = require("axios");
 const speed = require('performance-now');
 /*
-HALLO I'M RAMLAN :)
+HALLO I'M BOTSU :)
 SCRIPT HANYA UNTUK SAYA BELAJAR
 TOLONG JANGAN HAPUS TANDA PENGENAL PEMBUAT
 */
@@ -18,21 +18,21 @@ const apivhtear = 'YOUR_APIKEY'; // APIKEY VHTEAR
 const apibarbar = 'YOUR_APIKEY'; // APIKEY MHANKBARBAR
 const tobzkey = 'YOUR_APIKEY'; // APIKEY TOBZ
 const vinzkey = 'YOUR_APIKEY'; // APIKEY ZEKS
-const BotName = 'SADBOTZ'; // GANTI PAKE NAMA BOT LU
+const BotName = 'BOTSU'; // GANTI PAKE NAMA BOT LU
 const wa = 'https://chat.whatsapp.com/DcSr2e5hLMd7PkufBVymgu'; // LINK GRUP WA JANGAN DIGANTI YA BIAR KUMPUL DISITU SALING MENGENAL:)
-const ow = 'RAMLAN'; // GANTI PAKE NAMA MU
-const nomorowner = '085559240360'; // GANTI PAKE NOMOR MU ( JANGAN NOMOR BOT )
-const ovo = '0855-5924-0360'; // GANTI PAKE NOMOR OVO LU
-const pulsa = '0812-1444-1027'; // GANTI PAKE NOMOR PULSA LU
-const dana = '0855-5924-0360'; // GANTI PAKE NOMOR DANA LU
-const gopay = '0855-5924-0360'; // GANTI PAKE NOMOR GOPAY LU
-const instagram = 'http://www.instagram.com/iamramlan_'; // GANTI IG LU
+const ow = 'SURYA'; // GANTI PAKE NAMA MU
+const nomorowner = '0895331765207'; // GANTI PAKE NOMOR MU ( JANGAN NOMOR BOT )
+const ovo = 'GA PUNYA'; // GANTI PAKE NOMOR OVO LU
+const pulsa = '0895-3317-65207'; // GANTI PAKE NOMOR PULSA LU
+const dana = '0895-3317-65207'; // GANTI PAKE NOMOR DANA LU
+const gopay = '0895-3317-65207'; // GANTI PAKE NOMOR GOPAY LU
+const instagram = 'http://www.instagram.com/sryahdyt_'; // GANTI IG LU
 const aktif = '08:00 - 22:00'; // TERSERAH LU DAH INI
 const vcard = 'BEGIN:VCARD\n'
   + 'VERSION:3.0\n' // MAU NGAPAIN TOD
-  + 'FN:RAMLAN GANS\n' // GANTI PAKE NAMA MU
-  + 'ORG:OWNER BOT;\n' // INI BIARIN GPP, GANTI PAKE NAMA BOT BOLEH
-  + 'TEL;type=CELL;type=VOICE;waid=6285559240360:+62 855-5924-0360\n' // GANTI PAKE NOMOR LU ( SAMAIN KEK GITU YA )
+  + 'FN:SURYA GANS\n' // GANTI PAKE NAMA MU
+  + 'ORG:BOTSU;\n' // INI BIARIN GPP, GANTI PAKE NAMA BOT BOLEH
+  + 'TEL;type=CELL;type=VOICE;waid=+62 895-3317-65207:+62 895-3317-65207\n' // GANTI PAKE NOMOR LU ( SAMAIN KEK GITU YA )
   + 'END:VCARD' // THANKS TO LANN ID
 // NOTE : UBAH YANG GUE SURUH UBAH AJA BIAR GAK ERROR
 const
@@ -425,7 +425,7 @@ Note : Sisanya gunain otak kalian aja cape w jelasin :)
 ║➸ *!quotes*
 ║➸ *!bikinquote*
 ╠════════════════════
-║──────── *${BotName}* ──────── 
+║──────── *${BOTSU-BOT}* ──────── 
 ║  ▌│█║▌║▌║║▌║▌║█│▌▌│█║
 ║  ▌│█║▌║▌║║▌║▌║█│▌▌│█║
 ║──────── *${BotName}* ────────
@@ -553,10 +553,10 @@ var teks = text.replace(/!ssweb /, '')
 ║➸ *!rules*
 ║➸ *!notif*
 ╠════════════════════
-║──────── *${BotName}* ──────── 
+║──────── *${BOTSU-BOT}* ──────── 
 ║  ▌│█║▌║▌║║▌║▌║█│▌▌│█║
 ║  ▌│█║▌║▌║║▌║▌║█│▌▌│█║
-║──────── *${BotName}* ────────
+║──────── *${BOTSU-BOT}* ────────
 ╠════════════════════
 ╠════════════════════
 ║ _*POWERED BY ${ow}*_
